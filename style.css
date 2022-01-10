@@ -37,7 +37,7 @@ body {
     width: 240px;
 }
 
-.board {
+.field {
     display: flex;
     width: 75px;
     height: 75px;
